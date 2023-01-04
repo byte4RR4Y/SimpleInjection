@@ -1,5 +1,5 @@
 # SimpleInjection
-FUD RAT (Xor encrypted Meterpreter, shellcode injector)
+FUD RAT (Xor encrypted Meterpreter, shellcode injector) THIS IS A SOLUTION FOR MONODEVLEOP OR VISUAL STUDIO
 
 watch my video on Youtube: https://youtu.be/9TmrtGeIiUY
 
